@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grid Layout Exercise</string>
+    <string name="stu_name">姓名</string>
+    <string name="stu_name1">张三</string>
+    <string name="school">毕业院校</string>
+    <string name="school1">北京林业大学</string>
+    <string name="save_button">保存</string>
+    <string name="self_intro">个人技能介绍</string>
+</resources>

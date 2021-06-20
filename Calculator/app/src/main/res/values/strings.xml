@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="appname">简易计算器</string>
+    <string name="shownum">界面</string>
+</resources>

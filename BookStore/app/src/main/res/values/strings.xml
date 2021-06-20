@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="author_info">曹泽昊181002211</string>
+    <string-array name="book_type">
+        <item>书籍</item>
+        <item>杂志</item>
+        <item>报纸</item>
+    </string-array>
+    <string name="favor_title">Your Favorite Books:</string>
+    <string name="button1">书城</string>
+    <string name="button2">购物车</string>
+    <string name="button3">我的</string>
+    <string name="favor_button">Favorite</string>
+    <string name="login_button">注册/登录</string>
+    <string name="logout_button">退出登录</string>
+    <string name="by_password">密码登录</string>
+    <string name="by_message">验证码登录</string>
+    <string name="add_to_cart">加入购物车</string>
+    <string-array name="user_type">
+        <item>老用户</item>
+        <item>新用户</item>
+    </string-array>
+    <string-array name="user_type2">
+        <item>新用户</item>
+        <item>老用户</item>
+    </string-array>
+    <string name="one">1</string>
+</resources>

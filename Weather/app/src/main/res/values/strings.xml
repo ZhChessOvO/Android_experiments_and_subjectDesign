@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name_str">%s&#062;</string>
+    <string name="temp_str">%s(</string>
+    <string name="wd_str">风向:%s</string>
+    <string name="ws_str">风速:%s</string>
+    <string name="humidity_str">湿度:%s</string>
+    <string name="baro_str">气压:%s</string>
+</resources>
