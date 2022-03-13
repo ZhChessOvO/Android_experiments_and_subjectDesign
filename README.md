@@ -1,5 +1,5 @@
 # Android_experiments_and_subjectDesign
-北京林业大学移动开发技术（Android）所有实验&amp;课程设计
+移动开发技术（Android）所有实验&amp;课程设计
 
 ## 目录说明
 根目录（main）下每个文件夹均为一次实验/课设的工程文件，对照一下应该可以简单知道哪个是哪个
